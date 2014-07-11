@@ -1,0 +1,20 @@
+{
+    "name": "mean-bugherd",
+    "version": "0.0.1",
+    "description": "Adds bugherd code to MEAN.IO projects",
+    "author": {
+        "name": "Keith Morgan <keith.morgan@ignitesocialmedia.com>",
+        "name": "Yonatan Ellman <yonatan@nodeside.com>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IgniteSocialMedia/mean-bugherd.git"
+    },
+    "mean": "0.4.0",
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.4.x"
+    },
+    "dependencies": {},
+    "license": "MIT"
+}
