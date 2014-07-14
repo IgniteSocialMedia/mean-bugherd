@@ -7,6 +7,9 @@ Installation:
 
 `mean install mean-bugherd`
 
+(temp install)
+`npm install --save https://github.com/IgniteSocialMedia/mean-bugherd/tarball/master`
+
 Configuration:
 
 Add `bugherdId:'BUGHERD-ID'` to /config/env/YOUR-ENVIRONMENT
