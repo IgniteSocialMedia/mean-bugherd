@@ -1,6 +1,6 @@
 {
     "name": "mean-bugherd",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Adds bugherd code to MEAN.IO projects",
     "author": {
         "name": "Keith Morgan <keith.morgan@ignitesocialmedia.com>",
